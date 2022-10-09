@@ -11,9 +11,7 @@ Modelos y aprendizajes JUNIO22
       <p>Por: Susana Caraguay <br> 
 Profesor: Rafael Nogales <br> Fuente de datos: <a href=https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)>Breast Cancer Wisconsin (Diagnostic) Data Set </a><br>Dataset: wdbc.data</p>
      
-    </div>
-    <div class="col_pie">
-      <h4 style="color:  Navy">OBJETIVO</h4>
+         <h4 style="color:  Navy">OBJETIVO</h4>
       <p>Encontrar el modelo de predicción mas adecuado para diagnóstico de cáncer (M maligno B Benigno)</p>
         </div>
     <div class="col_pie">
@@ -57,8 +55,5 @@ Profesor: Rafael Nogales <br> Fuente de datos: <a href=https://archive.ics.uci.e
 <li>El mejor modelo, con base al análisis realizado en el presente ejercicio es el RandomForestClassifier ya que
 tiene mejor precisión y menor número de falsos negativos en la matriz de concurrencia de test.<br></li>
       
-    </div>
-    <div class="vacio"></div>
-  </div>
-  </body>
+   </body>
 </html>
