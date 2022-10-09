@@ -1,16 +1,12 @@
 Modelos y aprendizajes JUNIO22
 <html>
   <head>
-        <title></title>
-  </head>
+       </head>
   <body>
   <div id="cabecera">
       <h1 style="color:  Navy">MODELOS Y APRENDIZAJES</h1>	
     <h2 style="color:  Navy">Desarrollo modelos aprendizaje supervisado Breast Cancer Wisconsin (Diagnostic) Data Set  </h2>
   </div>
-   <div id="principal">  </div>
-  <div id="pie">
-    <div class="col_pie">
       <h4></h4>
       <p>Por: Susana Caraguay <br> 
 Profesor: Rafael Nogales <br> Fuente de datos: <a href=https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)>Breast Cancer Wisconsin (Diagnostic) Data Set </a><br>Dataset: wdbc.data</p>
