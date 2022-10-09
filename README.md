@@ -13,9 +13,7 @@ Profesor: Rafael Nogales <br> Fuente de datos: <a href=https://archive.ics.uci.e
      
          <h4 style="color:  Navy">OBJETIVO</h4>
       <p>Encontrar el modelo de predicción mas adecuado para diagnóstico de cáncer (M maligno B Benigno)</p>
-        </div>
-    <div class="col_pie">
-      <h4 style="color:  Navy">PREPROCESAMIENTO DE INFORMACIÓN</h4>
+          <h4 style="color:  Navy">PREPROCESAMIENTO DE INFORMACIÓN</h4>
 <ol>
   <li>Al abrir el archivo pude obervar que consta con 569 registros.</li>
   <li>Realicé la limpieza de la información, no se encontraron valores nulos.</li>
